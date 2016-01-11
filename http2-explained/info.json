@@ -1,22 +1,10 @@
 {
     "name": "http2讲解",
-    "md5": "xxxx", 
-    "source":"", 
-    "icon_url": "", 
-    "url": "http://us.iemanual.com/xxx/yy.tar", 
+    "md5": "329543df689d2050b4b8dcc0b92a9594", 
+    "icon_url": "http://emanual.github.io/resource/icons/http2-explained.png", 
+    "url": "http://emanualresource.github.io/book-http2-explained//dist/book.tar.gz", 
     "author": "Daniel Stenberg", 
-    "translators": [ //翻译人员
-        {
-            "name":"ye11ow",
-            "email":"ye111111ow@gmail.com",
-            "homepage":"https://github.com/ye11ow"
-        }
-    ],
     "homepage":"https://github.com/bagder/http2-explained",
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:ye11ow/http2-explained.git"
-    },
     "maintainers":[  
         {
             "name":"Jayin Ton",
