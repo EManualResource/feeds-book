@@ -2,7 +2,7 @@
     "name": "http2讲解",
     "md5": "329543df689d2050b4b8dcc0b92a9594", 
     "icon_url": "http://emanualresource.github.io/resource/icons/http2-explained.png", 
-    "url": "http://emanualresource.github.io/book-http2-explained/dist/book.zip", 
+    "url": "http://emanualresource.github.io/book-http2-explained/dist/http2-explained.zip", 
     "author": "Daniel Stenberg", 
     "homepage":"https://github.com/bagder/http2-explained",
     "maintainers":[  
