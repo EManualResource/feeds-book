@@ -1,0 +1,15 @@
+{
+    "name": "android-training",
+    "name_cn": "Android官方培训课程中文版",
+    "md5": "71fc5dfa91baa65440f80d6740490337",
+    "icon_url": "http://emanualresource.github.io/resource/icons/android.png",
+    "url": "http://emanualresource.github.io/book-android-training/dist/book.zip",
+    "author": "kesenhoo",
+    "homepage": "https://github.com/kesenhoo/android-training-course-in-chinese",
+    "maintainers": [
+        {
+            "name": "Jayin Ton",
+            "email": "tonjayin@gmail.com"
+        }
+    ]
+}
